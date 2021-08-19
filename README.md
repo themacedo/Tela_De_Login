@@ -7,8 +7,8 @@ criar botôes com design de redes sociais e a inclusão de icones.
 
 Esse foi o resultado final
 
+![login](https://user-images.githubusercontent.com/88012938/130004675-2579b594-b696-48ab-9fd7-96a81595c3fb.png)
 
-<img src="assets/login.png" alt="Web Version"/>
 
 
 ## 🚀 Iniciando
